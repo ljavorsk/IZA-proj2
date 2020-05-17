@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  IZA-proj2
+//  StudentRating
 //
-//  Created by Lukas Javorsky on 15/05/2020.
+//  Created by Lukas Javorsky on 17/05/2020.
 //  Copyright © 2020 Lukas Javorsky. All rights reserved.
 //
 
@@ -42,7 +42,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "IZA_proj2")
+        let container = NSPersistentContainer(name: "StudentRating")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.
