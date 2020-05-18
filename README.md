@@ -14,20 +14,20 @@ I've used it in Subject view. Every record of the student is stored in database.
 
 ## Aplication usage
 The aplication is ment to be used as a interactive dictionary for student rating.  
-For example if you have a scoring exercice you can use this to note the scores of every individual in your class.  
-The rating are stored in a database, that is linked with this application, it means that data are persistent.  
+For example, as a teacher you have a scoring exercice, and you want to note the scores of every individual in your class, you use this app to do that.  
+The records of student and his rating are stored in a database, that is linked with this application. It means that data are persistent.  
 
 ## Application windows
 ### Onboarding screen
 <img src="https://user-images.githubusercontent.com/52954689/82213085-e42ffd00-9913-11ea-9599-1c066fb66cb1.jpeg" alt="onboarding" width="250" height="500">
 This screen is displayed just once, when the application is first launched.  
-It should help the user to have some kind of idea how to use the app.  
+It should help the user to have some kind of idea, how to use the app.  
 
 ---
 ### Main screen
 <img src="https://user-images.githubusercontent.com/52954689/82213549-9d8ed280-9914-11ea-94c7-cb5841b0191e.jpg" alt="main" width="250" height="500">
 
-This screen is showed at every application launch.  
+This screen is shown at every application launch.  
 It's just a template for future application development.  
 
 ---
@@ -36,8 +36,8 @@ It's just a template for future application development.
 
 #### Adding new student
 
-In the top section you can add the student and by draging the slider, choose his score.  
-Simply by clicking at the **plus** button, the record will be added (haptic response will be triggered).  
+In the top section you can write student's name, and by draging the slider, choose his score.  
+Simply by clicking at the **plus** button, the record will be added to the database (haptic response will be triggered).  
 
 ---
 <img align=left src="https://user-images.githubusercontent.com/52954689/82213840-1db53800-9915-11ea-8159-52f381bc0047.jpg" alt="editing" width="250" height="500">
