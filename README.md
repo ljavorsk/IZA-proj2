@@ -9,7 +9,8 @@
 ## Purpose
 This application is a school project that is targeted to exercise and try application creation in Swift language.  
 In my case I wanted to try new perspection of Swift programming that is called SwiftUI.  
-Also in this project we should try to use CoreData library and work with database data.  
+Also another thing that was ment to be tried is CoreData library.  
+I've used it in Subject view. Every record of the student is stored in database.  
 
 ## Aplication usage
 The aplication is ment to be used as a interactive dictionary for student rating.  
