@@ -2,7 +2,7 @@
 //  StudentData.swift
 //  StudentRating
 //
-//  Created by Lukas Javorsky on 17/05/2020.
+//  Created by Lukas Javorsky on 18/05/2020.
 //  Copyright © 2020 Lukas Javorsky. All rights reserved.
 //
 
