@@ -5,6 +5,6 @@
         <attribute name="rating" optional="YES" attributeType="String"/>
     </entity>
     <elements>
-        <element name="StudentData" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="StudentData" positionX="-27" positionY="18" width="128" height="73"/>
     </elements>
 </model>
